@@ -1,0 +1,5 @@
+name: automotive-quote-assistant
+version: 1.0.0
+description: "Typed tools for safe catalog search, pricing, inventory and PDF quotations."
+author: "portfolio-owner"
+kind: standalone
